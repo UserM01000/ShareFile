@@ -1,5 +1,5 @@
 #!/bin/bash
-# Developer UserM01000
+
 #                 COLORES ALTOS
 negro="\e[1;30m"
 azul="\e[1;34m"
