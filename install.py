@@ -5,7 +5,7 @@ import time
 os.system("clear")
 print("Bienvenid@ y gracias por usar este script")
 print("y gracias P3rs0N 7r5sh y https://github.com/AnibalGthub")
-print("por las colaboraciones en este script:D\n")
+print("por las colaboraciones en este script :D\n")
 time.sleep(5)
 
 op = subprocess.run(['uname', '-o'], capture_output=True, text=True)
