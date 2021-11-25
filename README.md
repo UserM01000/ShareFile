@@ -11,7 +11,7 @@ Archivos mas facil por medio de links Ngrok :D </br>
 * `python3 install.py`
 * `Done :D`
 ~~~
-Tutorial --> 
+Tutorial --> https://www.youtube.com/watch?v=ag6vGbd4C7k
 ~~~
 
 # Contact Me?
